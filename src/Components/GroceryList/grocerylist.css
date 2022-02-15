@@ -1,0 +1,26 @@
+.grocery-list-item:nth-child(odd) {
+    background-color: mistyrose;
+    color:goldenrod;
+    
+}
+
+.grocery-list-item:nth-child(even) {
+    background-color: goldenrod;
+    color: mistyrose;
+}
+
+
+.grocery-list-item {
+    list-style-type: none;
+    padding: 8px;
+    border: goldenrod solid;
+    cursor: pointer;
+}
+
+.title-grocerylist {
+    color:palegoldenrod;
+}
+
+.grocery-list {
+    padding-left: 0;
+}

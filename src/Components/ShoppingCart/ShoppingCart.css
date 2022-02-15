@@ -1,0 +1,19 @@
+.shopping-cart-item:nth-child(odd) {
+    background-color: goldenrod;
+    color: mistyrose;
+}
+
+.shopping-cart-item:nth-child(even) {
+    background-color: mistyrose;
+    color: goldenrod;
+}
+
+.shopping-cart-item {
+    list-style-type: none;
+    padding: 8px;
+    border: goldenrod solid;
+}
+
+.title-shoppingcart {
+    color:palegoldenrod;
+}

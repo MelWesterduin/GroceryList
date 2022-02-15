@@ -1,0 +1,15 @@
+.inputfield {
+    border: 3px solid palegoldenrod;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px palegoldenrod;
+}
+
+button {
+    background-color: palegoldenrod;
+    border: palegoldenrod;
+    font-size: 15px;
+    margin-left: 10px;
+    color:rgb(194, 166, 166);
+    box-shadow: 5px 5px 5px rgb(194, 166, 166);
+    cursor: pointer;
+}
